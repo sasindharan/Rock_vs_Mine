@@ -21,3 +21,9 @@ Prediction
 Once trained, the model can make predictions on new sonar signals by extracting relevant features and feeding them into the trained logistic regression model. The model outputs a probability score indicating the likelihood of the object being a rock or a mine. A threshold is applied to these scores to make the final classification decision.
 
 ![sonar rock vs mine work flow](https://github.com/sasindharan/Rock_vs_Mine/assets/117493393/ca30bcbf-59a9-445d-8d3c-bb95d6fa306f)
+
+
+Learnings
+This is my first project in the process of learning machine learning and algorithms and also this is my first project in logistic regression. I learned what is logistic regression, how logistic regression work and about training and test data.
+
+colab link: https://colab.research.google.com/drive/1_O6BCdioh44T-oa25omsSxbUCooUvXVH
